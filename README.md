@@ -1,2 +1,3 @@
-# kkn-blog
-Daily technology blog, powered by awesome hexo
+# KKN Blog
+
+Daily technology blog, powered by awesome hexo!
